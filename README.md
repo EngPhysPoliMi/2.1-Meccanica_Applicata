@@ -1,6 +1,6 @@
-# x.y - Template
+# 2.1 - Meccanica Applicata
 
-Repository for "Template".
+Repository for "Meccanica Applicata".
 
 
 ## Use instructions
